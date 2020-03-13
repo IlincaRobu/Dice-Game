@@ -1,1 +1,3 @@
+---
 permalink: /dicee.html
+---
