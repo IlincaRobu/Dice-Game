@@ -1,1 +1,1 @@
-# Dice-Game
+permalink: /dicee.html
